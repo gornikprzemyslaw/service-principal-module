@@ -1,0 +1,10 @@
+---
+- identity_name: test-spn
+  repository_name: aaa/bbb
+  entity_type: environment
+  environment_name: dev
+  assignments:
+    - scope: "/subscriptions/xxxx"
+      role_definition_name: "Reader"
+
+
