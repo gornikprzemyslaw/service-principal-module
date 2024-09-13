@@ -1,0 +1,6 @@
+---
+- first_name: John
+  last_name: Doe
+  display_name:  J. Doe
+  mail_nickname: jdoe
+  password : SecretP@sswd99!

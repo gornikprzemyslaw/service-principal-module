@@ -1,0 +1,16 @@
+---
+- display_name: TestGroup
+  description:  XXXX
+  users:
+    - marcin.b@aaa.com
+    - przemyslaw.g@aaa.com
+  group_type: mail
+- display_name: TestGroup2
+  description:  YYY
+  users:
+    - przemyslaw.gornik@bluecromos.com
+  groups:
+    - ISA BC Master Entities
+  spns:
+    - 41871040-eb37-46b9-9303-5024703f
+  group_type: security
