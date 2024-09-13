@@ -1,6 +1,6 @@
 ---
 - identity_name: test-spn
-  repository_name: Blue-Cromos-Management-AB/deployment-azure
+  repository_name: aaa-AB/deployment-azure
   entity_type: environment
   environment_name: dev
   assignments:

@@ -8,7 +8,7 @@
 - display_name: TestGroup2
   description:  YYY
   users:
-    - przemyslaw.gornik@bluecromos.com
+    - przemyslaw.g@bbb.com
   groups:
     - ISA BC Master Entities
   spns:
